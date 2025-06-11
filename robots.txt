@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://madhumithac588.github.io/teamie/sitemap.xml
